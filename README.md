@@ -1,5 +1,7 @@
 # Privafy-INTERVIEW-ques
 ## problem:
+![Screenshot (160)](https://user-images.githubusercontent.com/67642088/110296917-e5ecbd80-8018-11eb-8c23-7cf70a25d2b2.png)
+
 <h3>You have to write a program in which you will have to insert numbers in linkedlist but the trick is when we print that list no repeated element should be print also when if you want to delete any element that has repeated before, than firstly, you have to delete that repetited element.
 </h3>
 <h3>better understand by an example</h3>
